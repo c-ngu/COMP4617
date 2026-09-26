@@ -1,0 +1,18 @@
+[2026-09-26 23:44:46] [javac-extractor-2650] Starting extraction for:
+                                             sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@/home/cngu5238/COMP4617/COMP4617/codeql-database/lib-crypto-util/log/ext/javac.args
+                                             user.dir=/home/cngu5238/COMP4617/COMP4617/lib-crypto-util
+[2026-09-26 23:44:46] [javac-extractor-2650] Compilation name /home/cngu5238/COMP4617/COMP4617/codeql-database/lib-crypto-util/trap/java/diagnostics/diagnostic.trap.gz
+[2026-09-26 23:44:46] [javac-extractor-2650] [WARN] Appending source destination directory /home/cngu5238/COMP4617/COMP4617/lib-crypto-util/target/generated-sources/annotations to sourcepath
+[2026-09-26 23:44:49] [javac-extractor-2650] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2026-09-26 23:44:50] [javac-extractor-2650] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2026-09-26 23:44:50] [javac-extractor-2650] 3 files will be passed to the attrib/flow phase
+[2026-09-26 23:44:50] [javac-extractor-2650] Processing file /home/cngu5238/COMP4617/COMP4617/lib-crypto-util/src/main/java/org/jvnet/hudson/crypto/CertificateUtil.java
+[2026-09-26 23:45:10] [javac-extractor-2650] Processing module java.base
+[2026-09-26 23:45:10] [javac-extractor-2650] Processing file /home/cngu5238/COMP4617/COMP4617/lib-crypto-util/src/main/java/org/jvnet/hudson/crypto/RSAPublicKeyUtil.java
+[2026-09-26 23:45:11] [javac-extractor-2650] Processing JAR file: /home/cngu5238/.m2/repository/com/github/spotbugs/spotbugs-annotations/4.9.8/spotbugs-annotations-4.9.8.jar
+[2026-09-26 23:45:11] [javac-extractor-2650] Processing file /home/cngu5238/COMP4617/COMP4617/lib-crypto-util/src/main/java/org/jvnet/hudson/crypto/SignatureOutputStream.java
+[2026-09-26 23:45:11] [javac-extractor-2650] Javac init time: 4.0s
+[2026-09-26 23:45:11] [javac-extractor-2650] Javac attr time: 0.3s
+[2026-09-26 23:45:11] [javac-extractor-2650] Extractor time: 21.0s
+[2026-09-26 23:45:11] [javac-extractor-2650] Other time: 0.6s
+[2026-09-26 23:45:11] [javac-extractor-2650] Total time: 25.8s
